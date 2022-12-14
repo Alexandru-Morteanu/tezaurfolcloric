@@ -1,0 +1,23 @@
+:root{
+    background-color: aqua;
+}
+.link:hover {
+    background-color: rgb(13, 77, 173);
+    color: white;
+
+}
+.link{
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+    margin-inline-start: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: rgb(10, 90, 208); 
+    border-radius: 20px;
+    transition-duration: 0.2s;
+    text-decoration: none;
+    color: white;
+}
